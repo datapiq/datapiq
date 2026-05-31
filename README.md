@@ -1,5 +1,4 @@
 <a href="https://datapiq.com"><img src="https://datapiq.com/image/ogp.jpg" alt="DATAPIQ" /></a>
-  # DATAPIQ
 
   **AI-powered document analysis & auto-journaling**
 
