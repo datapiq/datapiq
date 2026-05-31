@@ -1,16 +1,14 @@
-## Hi there 👋
+  # DATAPIQ
 
-<!--
-**datapiq/datapiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  **AI-powered document analysis & auto-journaling**
 
-Here are some ideas to get you started:
+  Upload invoices, receipts & delivery notes → AI reads them in 30 sec → Journal entries generated automatically.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - ✅ Mixed document types supported
+  - ✅ Calculation checks included
+  - ✅ Export to Yayoi / freee / MoneyForward
+  - ✅ Free trial — no credit card required
+
+  🌐 [datapiq.com](https://datapiq.com)
+  🐦 [@datapiq](https://x.com/datapiq)
+  💼 [LinkedIn](https://www.linkedin.com/company/datapiq/)
