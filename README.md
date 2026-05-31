@@ -1,4 +1,4 @@
-<img src="https://datapiq.com/image/ogp.jpg" width="600" alt="DATAPIQ" />
+<img src="https://datapiq.com/image/ogp.jpg" alt="DATAPIQ" />
   # DATAPIQ
 
   **AI-powered document analysis & auto-journaling**
