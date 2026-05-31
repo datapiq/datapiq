@@ -1,3 +1,4 @@
+ <img src="https://datapiq.com/favicon.svg" width="80" alt="DATAPIQ" />
   # DATAPIQ
 
   **AI-powered document analysis & auto-journaling**
